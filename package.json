@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-preprocess",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "ctx-core svelte preprocess scripts",
 	"keywords": [
 		"ctx-core",
@@ -17,15 +17,13 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
+	"main": "./src/index.js",
+	"types": "./src/index.d.ts",
 	"svelte": "./src/index.js",
 	"exports": {
 		".": {
 			"default": "./src/index.js",
 			"types": "./src/index.d.ts"
-		},
-		"./node": {
-			"default": "./src/node/index.js",
-			"types": "./src/node/index.d.ts"
 		},
 		"./package.json": "./package.json"
 	},
