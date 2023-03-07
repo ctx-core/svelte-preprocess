@@ -1,5 +1,12 @@
 # @ctx-core/svelte-preprocess
 
+## 1.0.54
+
+### Patch Changes
+
+- @ctx-core/object: ^27.1.5 -> ^27.1.6
+- @ctx-core/array: ^26.11.19 -> ^26.11.20
+
 ## 1.0.53
 
 ### Patch Changes
