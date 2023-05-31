@@ -1,5 +1,13 @@
 # @ctx-core/svelte-preprocess
 
+## 1.0.99
+
+### Patch Changes
+
+- @ctx-core/object: ^27.8.1 -> ^27.9.0
+- Updated dependencies
+  - @ctx-core/array@26.12.40
+
 ## 1.0.98
 
 ### Patch Changes
