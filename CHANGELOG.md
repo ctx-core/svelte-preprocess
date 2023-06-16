@@ -1,5 +1,11 @@
 # @ctx-core/svelte-preprocess
 
+## 1.0.102
+
+### Patch Changes
+
+- locate-character: ^2.0.5 -> ^3.0.0
+
 ## 1.0.101
 
 ### Patch Changes
