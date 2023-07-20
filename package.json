@@ -39,7 +39,7 @@
 	"dependencies": {
 		"@ctx-core/array": "^26.12.44",
 		"@ctx-core/object": "^28.0.3",
-		"svelte": "^4.0.5"
+		"svelte": "^4.1.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.0",
