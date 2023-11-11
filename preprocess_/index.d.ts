@@ -1,4 +1,4 @@
-import type { PreprocessorGroup, Processed } from 'svelte/types/compiler/preprocess'
+import type { PreprocessorGroup, Processed } from 'svelte/compiler'
 export declare function preprocess_(preprocess_a:PreprocessorGroup[]):preprocess_T
 export declare type compose_preprocess_a_key_return_T = (preprocess_opts:(MarkupPreprocessor_options_T|Preprocessor_options_T))=>Promise<Processed|undefined>
 export interface MarkupPreprocessor_options_T {
