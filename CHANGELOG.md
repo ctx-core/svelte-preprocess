@@ -1,5 +1,14 @@
 # @ctx-core/svelte-preprocess
 
+## 1.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/array@27.0.3
+  - @ctx-core/object@30.1.3
+
 ## 1.1.2
 
 ### Patch Changes
