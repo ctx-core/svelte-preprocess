@@ -1,5 +1,14 @@
 # @ctx-core/svelte-preprocess
 
+## 1.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/array@27.0.2
+  - @ctx-core/object@30.1.2
+
 ## 1.1.1
 
 ### Patch Changes
