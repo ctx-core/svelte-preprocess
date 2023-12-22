@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/svelte-preprocess",
-	"version": "1.1.66",
+	"version": "1.1.67",
 	"description": "ctx-core svelte preprocess scripts",
 	"keywords": [
 		"ctx-core",
@@ -43,7 +43,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.4.0",
+		"ctx-core": "^5.4.1",
 		"svelte": "^4.2.8"
 	},
 	"devDependencies": {
