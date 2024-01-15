@@ -1,5 +1,5 @@
-import { existsSync, readFileSync } from 'fs'
-import { basename, dirname, join } from 'path'
+import { existsSync, readFileSync } from 'node:fs'
+import { basename, dirname, join } from 'node:path'
 export function preprocess_compiled_src_() {
 	return {
 		style: fn_('css'),
