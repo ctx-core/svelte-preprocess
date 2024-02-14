@@ -1,5 +1,11 @@
 # @ctx-core/svelte-preprocess
 
+## 1.1.141
+
+### Patch Changes
+
+- ctx-core: ^6.2.3 -> ^6.3.0
+
 ## 1.1.140
 
 ### Patch Changes
