@@ -1,5 +1,13 @@
 # @ctx-core/svelte-preprocess
 
+## 1.1.160
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 1.1.159
 
 ### Patch Changes
