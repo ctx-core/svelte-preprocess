@@ -1,5 +1,15 @@
 # @ctx-core/svelte-preprocess
 
+## 1.1.212
+
+### Patch Changes
+
+- svelte: ^4.2.18 -> ^4.2.19
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@7.2.31
+
 ## 1.1.211
 
 ### Patch Changes
