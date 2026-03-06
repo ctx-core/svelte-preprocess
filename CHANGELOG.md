@@ -1,5 +1,13 @@
 # @ctx-core/svelte-preprocess
 
+## 1.1.215
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+
 ## 1.1.214
 
 ### Patch Changes
